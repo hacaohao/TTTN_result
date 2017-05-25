@@ -1807,3 +1807,45 @@ I0526 00:14:25.378159 35088 solver.cpp:229]     Train net output #1: loss = 0.01
 I0526 00:14:25.378166 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 1
 I0526 00:14:25.378171 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0
 I0526 00:14:25.378180 35088 solver.cpp:486] Iteration 640, lr = 0.1
+I0526 01:07:54.850618 35088 solver.cpp:214] Iteration 660, loss = 0.0152612
+I0526 01:07:54.850805 35088 solver.cpp:229]     Train net output #0: accuracy = 0.99452
+I0526 01:07:54.850824 35088 solver.cpp:229]     Train net output #1: loss = 0.0152612 (* 1 = 0.0152612 loss)
+I0526 01:07:54.850831 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 1
+I0526 01:07:54.850836 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.000174186
+I0526 01:07:54.850845 35088 solver.cpp:486] Iteration 660, lr = 0.1
+I0526 02:01:21.585834 35088 solver.cpp:214] Iteration 680, loss = 0.0144765
+I0526 02:01:21.585979 35088 solver.cpp:229]     Train net output #0: accuracy = 0.99449
+I0526 02:01:21.585999 35088 solver.cpp:229]     Train net output #1: loss = 0.0144765 (* 1 = 0.0144765 loss)
+I0526 02:01:21.586005 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 0.999963
+I0526 02:01:21.586010 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.00139349
+I0526 02:01:21.586019 35088 solver.cpp:486] Iteration 680, lr = 0.1
+I0526 02:54:53.221734 35088 solver.cpp:214] Iteration 700, loss = 0.0138274
+I0526 02:54:53.221863 35088 solver.cpp:229]     Train net output #0: accuracy = 0.994512
+I0526 02:54:53.221892 35088 solver.cpp:229]     Train net output #1: loss = 0.0138274 (* 1 = 0.0138274 loss)
+I0526 02:54:53.221899 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 0.999828
+I0526 02:54:53.221905 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.0297858
+I0526 02:54:53.221913 35088 solver.cpp:486] Iteration 700, lr = 0.1
+I0526 03:48:23.091462 35088 solver.cpp:214] Iteration 720, loss = 0.0134289
+I0526 03:48:23.091590 35088 solver.cpp:229]     Train net output #0: accuracy = 0.994882
+I0526 03:48:23.091609 35088 solver.cpp:229]     Train net output #1: loss = 0.0134289 (* 1 = 0.0134289 loss)
+I0526 03:48:23.091614 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 0.999998
+I0526 03:48:23.091620 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.0665389
+I0526 03:48:23.091630 35088 solver.cpp:486] Iteration 720, lr = 0.1
+I0526 04:41:54.163372 35088 solver.cpp:214] Iteration 740, loss = 0.0106107
+I0526 04:41:54.163504 35088 solver.cpp:229]     Train net output #0: accuracy = 0.996014
+I0526 04:41:54.163523 35088 solver.cpp:229]     Train net output #1: loss = 0.0106107 (* 1 = 0.0106107 loss)
+I0526 04:41:54.163529 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 0.999993
+I0526 04:41:54.163534 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.274168
+I0526 04:41:54.163542 35088 solver.cpp:486] Iteration 740, lr = 0.1
+I0526 05:34:46.685518 35088 solver.cpp:214] Iteration 760, loss = 0.0126878
+I0526 05:34:46.685709 35088 solver.cpp:229]     Train net output #0: accuracy = 0.994843
+I0526 05:34:46.685726 35088 solver.cpp:229]     Train net output #1: loss = 0.0126878 (* 1 = 0.0126878 loss)
+I0526 05:34:46.685734 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 1
+I0526 05:34:46.685739 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.0592231
+I0526 05:34:46.685746 35088 solver.cpp:486] Iteration 760, lr = 0.1
+I0526 06:26:59.447693 35088 solver.cpp:214] Iteration 780, loss = 0.0118466
+I0526 06:26:59.447823 35088 solver.cpp:229]     Train net output #0: accuracy = 0.995765
+I0526 06:26:59.447840 35088 solver.cpp:229]     Train net output #1: loss = 0.0118466 (* 1 = 0.0118466 loss)
+I0526 06:26:59.447849 35088 solver.cpp:229]     Train net output #2: per_class_accuracy = 0.999982
+I0526 06:26:59.447859 35088 solver.cpp:229]     Train net output #3: per_class_accuracy = 0.230796
+I0526 06:26:59.447868 35088 solver.cpp:486] Iteration 780, lr = 0.1
